@@ -5,7 +5,7 @@ font-family:sans-serif;
 }
 #Sidebar {
 position:fixed;
-width:20%;
+width:200px;
 height:100%;
 background:#151719;
 }
@@ -32,7 +32,7 @@ background:#151719;
 margin:5px 0px;
 }
 #MainDiet-Column {
-  position:fixed;
+  position:right;
   width:80%;
   height:100;
 }
